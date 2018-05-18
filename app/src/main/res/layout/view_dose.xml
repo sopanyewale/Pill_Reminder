@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/GreyBlockStyle"
+    android:orientation="horizontal"
+    android:weightSum="10"
+    android:gravity="center_vertical">
+
+    <CheckBox android:id="@+id/chk_dose_taken"
+        android:layout_width="0dp"
+        android:layout_weight="4"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:paddingLeft="10dp"/>
+
+    <TextView android:id="@+id/txt_dose_quantity"
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="wrap_content" />
+
+    <ImageView android:id="@+id/img_icon"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pill_black_24dp"
+        android:scaleType="fitCenter"/>
+
+    <TextView android:id="@+id/txt_dose_time"
+        android:layout_width="0dp"
+        android:layout_weight="3"
+        android:layout_height="wrap_content"
+        android:paddingRight="10dp"/>
+
+</LinearLayout>

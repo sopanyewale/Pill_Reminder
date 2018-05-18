@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Pill-Reminder</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="login_register">Login/Register</string>
+
+    <!--Settings Items-->
+    <string name="profile">Profile</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="app_version">App Version</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="upgrade_to_premium">Upgrade to Premium</string>
+    <string name="suggest_an_idea">Suggest an Idea</string>
+    <string name="faq">FAQ</string>
+    <string name="about_us">About Us</string>
+
+    <!--Users List-->
+    <string-array name="users">
+        <item>Person A</item>
+        <item>Person B</item>
+        <item>Person C</item>
+    </string-array>
+
+    <!--Measurement List-->
+    <string-array name="measurement">
+        <item>Weight</item>
+        <item>Height</item>
+    </string-array>
+
+    <!--Measurement Units-->
+    <string-array name="unit">
+        <item>Kg</item>
+        <item>lb</item>
+    </string-array>
+
+    <!--Gender-->
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <!--Medicine Names-->
+    <string-array name="medicine_names">
+        <item>Crocin</item>
+        <item>Combiflam</item>
+    </string-array>
+
+    <!--Medicine Units-->
+    <string-array name="medicine_units">
+        <item>Pills</item>
+        <item>Injection</item>
+        <item>Syrup</item>
+    </string-array>
+
+    <!--Medicine Frequency-->
+    <string-array name="medicine_frequency">
+        <item>Once a day</item>
+        <item>Twice a day</item>
+        <item>Thrice a day</item>
+    </string-array>
+
+    <!--Medicine Type-->
+    <string-array name="medicine_type">
+        <item>Tablets</item>
+        <item>Syrup</item>
+    </string-array>
+
+    <!--FAQ-->
+    <string-array name="faq_questions">
+        <item>What is Lorem Ipsum?</item>
+        <item>Where does it come from?</item>
+        <item>Why do we use it?</item>
+        <item>Where can I get some?</item>
+    </string-array>
+
+    <string-array name="faq_answers">
+        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</item>
+        <item>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</item>
+        <item>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</item>
+        <item>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</item>
+    </string-array>
+
+    <string-array name="appointment_reminder">
+        <item>Before 30 Mins</item>
+        <item>Before 1 Hour</item>
+        <item>Before 1 Day</item>
+    </string-array>
+
+    <!--Users List-->
+    <string-array name="doctors">
+        <item>Doctor A</item>
+        <item>Doctor B</item>
+        <item>Doctor C</item>
+    </string-array>
+</resources>
